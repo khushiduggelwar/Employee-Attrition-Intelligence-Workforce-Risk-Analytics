@@ -1,8 +1,5 @@
 # 📊 Employee Attrition Intelligence & Workforce Risk Analytics
 
-## 1. Project Title / Headline
-📊 **Employee Attrition Intelligence & Workforce Risk Analytics**
-
 ## 📌 Project Overview
 
 This Power BI project analyzes employee attrition patterns across departments,
