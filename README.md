@@ -43,10 +43,12 @@ and visual storytelling.
 
 | Tool | Purpose |
 |---|---|
-| **Power BI Desktop** | Dashboard & visualizations |
-| **DAX** | Calculated measures & KPIs |
-| **Power Query** | Data cleaning & transformation |
-| **Excel/CSV** | Raw data storage |
+| **Microsoft Excel** | Data cleaning — removed unwanted columns, renamed columns, checked data types |
+| **SQL Server / PostgreSQL** | Business question analysis — queried attrition patterns using SQL |
+| **Power BI Desktop** | Dashboard creation — 3-page interactive report |
+| **DAX** | Calculated measures & KPIs inside Power BI |
+| **Power Query** | Data transformation & loading inside Power BI |
+| **Kaggle** | Dataset source — IBM HR Analytics Employee Attrition |
 
 ---
 
